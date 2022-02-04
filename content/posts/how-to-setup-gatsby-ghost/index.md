@@ -4,6 +4,9 @@ date: 2019-07-20 20:10:12-08:00
 draft: false
 tags: [tech, blogging, tutorial]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 As a software engineer, I am often a victim (read: perpetrator) of scope creep. When I set out to re-engineer my personal website for portfolio projects I made when I first began building software, I had so many grand ideas for how it was going to be amazing, make my life easier, and clean my toilets while it was at it. In the design phase, I forgot one of the most important rules of designing software.

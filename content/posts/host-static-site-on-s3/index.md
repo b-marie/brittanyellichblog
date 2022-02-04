@@ -4,6 +4,9 @@ date: 2019-07-22 20:10:12-08:00
 draft: false
 tags: [tech, tutorial, aws]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 There are hundreds of places out there to host your blog or website, and the majority of blogs out there seem to highly recommend using something like HostGator or BlueHost, in part due to the affiliate money they receive from it. Sure, it may only be $2.95 per month, but those costs add up to nearly $36 per year, and that's not including all of the add-ons they convince you that you will need.

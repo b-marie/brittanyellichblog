@@ -4,6 +4,9 @@ date: 2019-08-19 20:10:12-08:00
 draft: false
 tags: [tech, continuous education]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 Podcasts have really made a comeback since they were first introduced. It seems like in the last 3-4 years, the number and variety of podcasts have really exploded. When I first started my transition to working in software, I thought that podcasts would be a great way to utilize all the time I was spending in the car. However, I really struggled trying to figure out which podcasts really worked for helping me learn at the beginner level. Many of the podcasts out there seemed to be individuals sharing their opinions about certain technologies, instead of describing what those technologies were or how to use them.

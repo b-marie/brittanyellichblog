@@ -4,6 +4,9 @@ date: 2019-09-02 20:10:12-08:00
 draft: false
 tags: [tech, devops, book review]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book [Accelerate](https://www.amazon.com/gp/product/1942788339/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942788339&linkCode=as2&tag=jaquenetta-20&linkId=9f49054ce45424cbe1d929e0f6ad59fc) on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.

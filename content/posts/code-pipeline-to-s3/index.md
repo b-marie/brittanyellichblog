@@ -4,6 +4,9 @@ date: 2019-08-12 20:10:12-08:00
 draft: false
 tags: [tech, tutorial, aws]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 One of the best traits for a Software Engineer is to be lazy. Lazy engineers tend to find ways to make their lives easier, by automating menial tasks to reduce the amount of time they need to spend on trivial things, so that they can focus on things that are more important.

@@ -4,6 +4,9 @@ date: 2019-09-09 20:10:12-08:00
 draft: false
 tags: [tech, tutorial, aws, backend]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "featured-image.jpeg"
 ---
 
 In recent months since I decided to revamp my personal website and create a new space for learning outside of work, I've developed quite the long list of projects that I would like to work on to test my skills. It has been fun, as I've been able to reflect on the site that I put together about 3 years ago or so and realize just how much I've learned. You can check out my first iteration here, if you really want to.

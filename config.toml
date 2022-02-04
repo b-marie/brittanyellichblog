@@ -214,6 +214,7 @@ theme = "LoveIt"
     Matrix = ""
     Bilibili = ""
     Email = "brittany.ellich@outlook.com"
+    Resume = true
     RSS = true # 
 
   #  Page config
@@ -284,28 +285,28 @@ theme = "LoveIt"
       enable = true
       Twitter = true
       Facebook = true
-      Linkedin = false
+      Linkedin = true
       Whatsapp = true
       Pinterest = false
       Tumblr = false
-      HackerNews = false
+      HackerNews = true
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
-      Pocket = false
+      Pocket = true
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
-      Myspace = true
-      Blogger = true
+      Myspace = false
+      Blogger = false
       Baidu = false
       Odnoklassniki = false
-      Evernote = true
+      Evernote = false
       Skype = false
       Trello = false
       Mix = false
@@ -315,9 +316,9 @@ theme = "LoveIt"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus shortname to use Disqus in posts
-        shortname = ""
+        shortname = "https-brittanyellich-com"
       # Gitalk comment config
       [params.page.comment.gitalk]
         # 
@@ -493,9 +494,9 @@ theme = "LoveIt"
 
 # Author config
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Brittany Ellich"
+  email = "brittany.ellich@outlook.com"
+  link = "https://brittanyellich.com"
 
 # Sitemap config
 [sitemap]
