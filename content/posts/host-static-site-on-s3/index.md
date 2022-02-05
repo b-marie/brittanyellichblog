@@ -19,7 +19,7 @@ There are a few tools through the Amazon Web Services console we will be using f
 
 ---
 
-![Pointing at a computer](/static/images/computer.jpeg)
+![Pointing at a computer](computer.jpeg)
 
 ## Static Content
 
@@ -55,7 +55,7 @@ The primary reason we're using Amazon CloudFront is that it will allow us to set
 
 ---
 
-![S3 to cloudfront architecture diagram](/static/images/s3-architecture-diagram.png)
+![S3 to cloudfront architecture diagram](s3-architecture-diagram.png)
 
 ## Tutorial
 
@@ -65,7 +65,7 @@ Enough background, let's get into the tutorial! The diagram above is a general o
 
 For this tutorial I'm going to assume that you want a custom domain. If you haven't already set one up on a site like GoDaddy, head over to the AWS Console and either create a new account or sign in.
 
-![set up domain in route 53](/static/images/domain-setup.png)
+![set up domain in route 53](domain-setup.png)
 
 Our first stop in the AWS Console is going to be Route 53.
 
@@ -74,7 +74,7 @@ Our first stop in the AWS Console is going to be Route 53.
 3. Once the domain is finished propagating, you should be able to access it as a "Hosted Zone" from the Route 53 dashboard pictured above.
 4. One thing I recommend setting up first is a new record set so that your domain can be accessible either by going directly to it (ex. brittanyellich.com) or through an alias (ex. www.brittanyellich.com). Click "Create Record Set". You will want the following setup, with a Type of "A - IPv4 address", Alias set to "yes", and in the dropdown for Alias Target pick your main domain name. Keep the Routing Policy as simple and click "Create"! You're done here for now!
 
-![create record set](/static/images/record-set.png)
+![create record set](record-set.png)
 
 ## Step Two: Provision a Public Certificate from Certificate Manager
 

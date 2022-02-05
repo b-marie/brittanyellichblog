@@ -2,6 +2,24 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://brittanyellich.com/</loc></url><url>
-            <loc>https://brittanyellich.com/categories/</loc></url><url>
-            <loc>https://brittanyellich.com/tags/</loc></url></urlset>
+            <loc>https://brittanyellich.com/tags/aws/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/backend/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/personal-project-backend-api/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/posts/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/tech/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/tutorial/</loc><lastmod>2019-09-09T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/accelerate-book-review/</loc><lastmod>2019-09-02T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/book-review/</loc><lastmod>2019-09-02T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/devops/</loc><lastmod>2019-09-02T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/continuous-education/</loc><lastmod>2019-08-19T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/javascript/</loc><lastmod>2019-08-19T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/projects/</loc><lastmod>2019-08-19T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/projects/rgb-color-game/</loc><lastmod>2019-08-19T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/top-5-best-podcasts-2019/</loc><lastmod>2019-08-19T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/code-pipeline-to-s3/</loc><lastmod>2019-08-12T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/host-static-site-on-s3/</loc><lastmod>2019-07-22T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/tags/blogging/</loc><lastmod>2019-07-20T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/how-to-setup-gatsby-ghost/</loc><lastmod>2019-07-20T20:10:12-08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://brittanyellich.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

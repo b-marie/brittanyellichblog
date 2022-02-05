@@ -11,7 +11,7 @@ resources:
 
 As a software engineer, I am often a victim (read: perpetrator) of scope creep. When I set out to re-engineer my personal website for portfolio projects I made when I first began building software, I had so many grand ideas for how it was going to be amazing, make my life easier, and clean my toilets while it was at it. In the design phase, I forgot one of the most important rules of designing software.
 
-![Keep it simple, stupid](/static/images/keep-it-simple-stupid.png)
+![Keep it simple, stupid](keep-it-simple-stupid.png)
 
 Finally after months of planning blog posts with no where to put them, I decided to pull the plug on my custom .net core back-end and react front-end, and use one of 1000s of tools that put together a site for you, [primarily using this tutorial](https://nishantdania.com/blog/guide-to-setup-ghost-gatsby-website) I found when doing research.
 

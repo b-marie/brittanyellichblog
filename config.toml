@@ -508,6 +508,7 @@ theme = "LoveIt"
 [Permalinks]
   # posts = ":year/:month/:filename"
   posts = ":filename"
+  projects = ":filename"
 
 # Privacy config
 [privacy]
@@ -552,10 +553,32 @@ theme = "LoveIt"
     title = ""
     weight = 1
   [[menu.main]]
+    identifier = "projects"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Projects"
+    url = "/projects/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "book-reviews"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Book Reviews"
+    url = "/book-reviews/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 3
+  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 2
+    weight = 4

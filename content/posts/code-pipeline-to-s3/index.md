@@ -17,7 +17,7 @@ If you stuck with me through my last tutorial on hosting a static website on AWS
 
 ---
 
-![Pipeline](/static/images/pipeline.jpeg)
+![Pipeline](pipeline.jpeg)
 
 First, let's review a little bit of terminology, in case you aren't familiar with deployment pipelines.
 

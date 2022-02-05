@@ -1,8 +1,8 @@
 ---
-title: "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - A Review"
+title: "Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations"
 date: 2019-09-02 20:10:12-08:00
 draft: false
-tags: [tech, devops, book review]
+tags: [tech, devops]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

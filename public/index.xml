@@ -2,8 +2,54 @@
     <channel>
         <title>Brittany Ellich</title>
         <link>https://brittanyellich.com/</link>
-        <description>Brittany Ellich</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language>
+        <description>Senior Software Engineer</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>brittany.ellich@outlook.com (Brittany Ellich)</managingEditor>
+            <webMaster>brittany.ellich@outlook.com (Brittany Ellich)</webMaster><lastBuildDate>Mon, 09 Sep 2019 20:10:12 -0800</lastBuildDate>
             <atom:link href="https://brittanyellich.com/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>Building a Personal Project Backend API with .NET Core, DynamoDB, Docker, and Heroku</title>
+    <link>https://brittanyellich.com/personal-project-backend-api/</link>
+    <pubDate>Mon, 09 Sep 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/personal-project-backend-api/</guid>
+    <description><![CDATA[In recent months since I decided to revamp my personal website and create a new space for learning outside of work, I&rsquo;ve developed quite the long list of projects that I would like to work on to test my skills. It has been fun, as I&rsquo;ve been able to reflect on the site that I put together about 3 years ago or so and realize just how much I&rsquo;ve learned. You can check out my first iteration here, if you really want to.]]></description>
+</item><item>
+    <title>Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - A Review</title>
+    <link>https://brittanyellich.com/accelerate-book-review/</link>
+    <pubDate>Mon, 02 Sep 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/accelerate-book-review/</guid>
+    <description><![CDATA[Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book Accelerate on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.
+I wanted to summarize some of the key points I got out of the book. Which is easier said than done, considering I think more of the book is highlighted than isn&rsquo;t.]]></description>
+</item><item>
+    <title>The Top 5 Best Software Engineering Podcasts for New Engineers</title>
+    <link>https://brittanyellich.com/top-5-best-podcasts-2019/</link>
+    <pubDate>Mon, 19 Aug 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/top-5-best-podcasts-2019/</guid>
+    <description><![CDATA[Podcasts have really made a comeback since they were first introduced. It seems like in the last 3-4 years, the number and variety of podcasts have really exploded. When I first started my transition to working in software, I thought that podcasts would be a great way to utilize all the time I was spending in the car. However, I really struggled trying to figure out which podcasts really worked for helping me learn at the beginner level.]]></description>
+</item><item>
+    <title>How To Set Up an AWS CodePipeline for Uploading Your Static Site To S3 On Every Commit</title>
+    <link>https://brittanyellich.com/code-pipeline-to-s3/</link>
+    <pubDate>Mon, 12 Aug 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/code-pipeline-to-s3/</guid>
+    <description><![CDATA[One of the best traits for a Software Engineer is to be lazy. Lazy engineers tend to find ways to make their lives easier, by automating menial tasks to reduce the amount of time they need to spend on trivial things, so that they can focus on things that are more important.
+Today, I&rsquo;m going to help you be lazy.
+If you stuck with me through my last tutorial on hosting a static website on AWS, you now have a static website that is hosted from an AWS S3 bucket.]]></description>
+</item><item>
+    <title>How to Host Your Static Site on AWS For (almost) Free</title>
+    <link>https://brittanyellich.com/host-static-site-on-s3/</link>
+    <pubDate>Mon, 22 Jul 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/host-static-site-on-s3/</guid>
+    <description><![CDATA[There are hundreds of places out there to host your blog or website, and the majority of blogs out there seem to highly recommend using something like HostGator or BlueHost, in part due to the affiliate money they receive from it. Sure, it may only be $2.95 per month, but those costs add up to nearly $36 per year, and that&rsquo;s not including all of the add-ons they convince you that you will need.]]></description>
+</item><item>
+    <title>How to Set Up a Fully-Customizable Blog and Personal Website Using GatsbyJS and Ghost</title>
+    <link>https://brittanyellich.com/how-to-setup-gatsby-ghost/</link>
+    <pubDate>Sat, 20 Jul 2019 20:10:12 -0800</pubDate>
+    <author>Author</author>
+    <guid>https://brittanyellich.com/how-to-setup-gatsby-ghost/</guid>
+    <description><![CDATA[As a software engineer, I am often a victim (read: perpetrator) of scope creep. When I set out to re-engineer my personal website for portfolio projects I made when I first began building software, I had so many grand ideas for how it was going to be amazing, make my life easier, and clean my toilets while it was at it. In the design phase, I forgot one of the most important rules of designing software.]]></description>
+</item></channel>
 </rss>

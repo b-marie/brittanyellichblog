@@ -25,7 +25,7 @@ My goal for this project was to build an API that served JSON data related to a 
 
 Start out by downloading or opening up Visual Studio 2019. I use the Community edition, and it serves my needs perfectly well. I started this project by creating a new project in Visual Studio for a .NET Core API, as shown below, with HTTPS configuration and docker support included. Be sure to select Linux Docker support, as Heroku doesn't support Windows Docker images at this time.
 
-![Example Image](/static/images/vscode.png)
+![Example Image](vscode.png)
 
 Once your API project is up and running, add two class libraries to the solution as well. One of these class libraries should be titled 'common', and the other should be titled 'service'. I like to add new projects into a 'src' folder off of the main solution folder, to keep the folder directory tidy.
 

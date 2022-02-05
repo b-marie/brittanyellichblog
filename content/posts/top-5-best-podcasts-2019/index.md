@@ -15,23 +15,23 @@ I've found that any time I spend in the car or with time to kill, listening to a
 
 ---
 
-![Woman listening to headphones](/static/images/podcast.jpeg)
+![Woman listening to headphones](podcast.jpeg)
 
 ## [#5 - CodeNewbie](https://www.codenewbie.org/podcast)
 
-![CodeNewbie](/static/images/code-newbie.jpeg)
+![CodeNewbie](code-newbie.jpeg)
 
 The CodeNewbie podcast shares stories and insights from individuals about their career journey. I found this podcast incredibly useful when I was first starting my career as it helped me to understand that many people in tech end up there on a very windy path like myself, filled with sharp corners and pit stops along the way. It was helpful to learn that I was doing the right thing to transition to my career, and to realize that there are many different avenues you can take to keep moving forward.
 
 ## [#4 - Learn to Code With Me](https://learntocodewith.me/)
 
-![Learn to code with me](/static/images/learn-to-code-with-me.png)
+![Learn to code with me](learn-to-code-with-me.png)
 
 The Learn to Code With Me podcast tends to focus primarily on the journeys of self-taught developers and individuals with a non-traditional background. It provides useful tips for people looking to get into tech that may not know where to start, and so is a great starting point for anyone who is very new to the field.
 
 ## [#3 - JavaScript Jabber](https://devchat.tv/js-jabber/)
 
-![JavaScript Jabber](/static/images/javascript-jabber.jpeg)
+![JavaScript Jabber](javascript-jabber.jpeg)
 
 If you're just learning to code and trying to decide which language to start with, I highly recommend JavaScript. It is incredibly versatile and highly accessible to new learners. I find that developing in JavaScript genuinely makes me happy (although I know a few co-workers of mine that would disagree).
 
@@ -39,13 +39,13 @@ JavaScript Jabber is a podcast from the [devchat.tv network](https://devchat.tv/
 
 ## [#2 - Front End Happy Hour](https://frontendhappyhour.com/)
 
-![Front End Happy Hour](/static/images/front-end-happy-hour.jpeg)
+![Front End Happy Hour](front-end-happy-hour.jpeg)
 
 While I tend to take full-stack jobs, I find that there is often more interesting developments occurring in the front-end space than in the back-end space. Thus, I often listen to more front-end focused podcasts. Front End Happy Hour is one that I've found particularly interesting, both due to the fun drinking-game-esque format as well as the diversity of opinions showcased on the show. They often have 3-4 regulars as well as at least one special guest on each show, which provides a diversity of opinion that is very refreshing.
 
 ## [#1 - Soft Skills Engineering](https://softskills.audio/)
 
-![Soft Skills Engineering](/static/images/soft-skills-engineering.png)
+![Soft Skills Engineering](soft-skills-engineering.png)
 
 This podcast has almost nothing to do with technology by design and everything to do with how to do well in your job otherwise. I find that technology skills are relatively easy to learn, while soft skills can be more difficult to master. The two co-hosts give highly relevant and often hilarious advice for how to handle difficult situations at work.
 
