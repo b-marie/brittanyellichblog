@@ -85,7 +85,7 @@ theme = "LoveIt"
 
   # Footer config
   [params.footer]
-    enable = true
+    enable = false
     #  Custom content (HTML format is supported)
     custom = ''
     #  whether to show Hugo and theme info
