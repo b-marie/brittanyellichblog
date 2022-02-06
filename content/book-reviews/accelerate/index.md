@@ -4,12 +4,13 @@ date: 2019-09-02 20:10:12-08:00
 draft: false
 tags: [tech, devops]
 author: Brittany Ellich
-resources:
-  - name: "featured-image"
-    src: "featured-image.jpeg"
 ---
 
-Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book [Accelerate](https://www.amazon.com/gp/product/1942788339/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1942788339&linkCode=as2&tag=jaquenetta-20&linkId=9f49054ce45424cbe1d929e0f6ad59fc) on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.
+[Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07B9F83WM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GZ8P72Q7X2CDHX6J4G5A&tag=brittanyellich-20)
+
+Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book [Accelerate](https://read.amazon.com/kp/embed?asin=B07B9F83WM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GZ8P72Q7X2CDHX6J4G5A&tag=brittanyellich-20) on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.
+
+![Accelerate by Jez Humble and Gene Kim](accelerate.jpeg)
 
 I wanted to summarize some of the key points I got out of the book. Which is easier said than done, considering I think more of the book is highlighted than isn't. I have to admit, I blog more for providing easy access to my notes for my future self than anything else. Thus, I wanted to organize the key takeaways I found.
 
