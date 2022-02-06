@@ -5,8 +5,8 @@ draft: false
 tags: [productivity, organization]
 author: Brittany Ellich
 resources:
-  - name: "organization"
-    src: "organization.jpg"
+  - name: "featured-image"
+    src: "featured-image.jpg"
 ---
 
 Once upon a time, I was a paper to-do list person. I would spend the beginning of my work day sipping coffee and carefully crafting boxes for each of my to-do list items for the day in my minimalist Moleskine squared notebook, basking in the feeling of being so put-together.
