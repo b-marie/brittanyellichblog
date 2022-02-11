@@ -61,7 +61,7 @@ Readwise doesn’t only import your highlights from various apps, it also allows
 
 I export all of my highlights into a notion list. From there, I can make notes from the highlights and keep the summary I wrote on the book or article, which makes it super easy to come back to in the future.
 
-**Turn your notes from everything you’ve read into evergreen notes.** Evergreen notes are designed to be a collection of notes that cover the span of all of the things you’ve learned. A similar methodology that is a bit more difficult to pronounce is a [Zettelkasten([https://zettelkasten.de/posts/overview/](https://zettelkasten.de/posts/overview/).
+**Turn your notes from everything you’ve read into evergreen notes.** Evergreen notes are designed to be a collection of notes that cover the span of all of the things you’ve learned. A similar methodology that is a bit more difficult to pronounce is a [Zettelkasten](https://zettelkasten.de/posts/overview/).
 
 ![evergreen-notes](evergreen-notes.png)
 
