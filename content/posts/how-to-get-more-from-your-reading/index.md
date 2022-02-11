@@ -2,7 +2,7 @@
 title: "How to Read Better: Read Faster, Get More Insights, and Retain Them"
 date: 2022-02-11 10:00:00-08:00
 draft: false
-tags: [reading, life]
+tags: [reading, life, productivity]
 author: Brittany Ellich
 resources:
   - name: "featured-image"
