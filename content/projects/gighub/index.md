@@ -15,4 +15,4 @@ GigHub was a project that I built to become more familiar with C#, .NET, and Ent
 
 ![GigHub](featured-image.jpeg)
 
-Check out the [link to the GitHub repo here](https://github.com/b-marie/GigHub).
+Check out the [link to the GitHub repo here](https://github.com/brittanyellich/GigHub).

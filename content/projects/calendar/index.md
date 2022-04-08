@@ -15,4 +15,4 @@ This was a project as part of my course work at Western Governor's University (W
 
 ![Calendar app](featured-image.jpeg)
 
-Check out the [link to the GitHub repo here](https://github.com/b-marie/TimeTidy2).
+Check out the [link to the GitHub repo here](https://github.com/brittanyellich/TimeTidy2).

@@ -15,4 +15,4 @@ This was a project as part of my course work at Western Governor's University (W
 
 ![Inventory Management System](featured-image.jpeg)
 
-Check out the [link to the GitHub repo here](https://github.com/b-marie/InventoryManagementSystem).
+Check out the [link to the GitHub repo here](https://github.com/brittanyellich/InventoryManagementSystem).
