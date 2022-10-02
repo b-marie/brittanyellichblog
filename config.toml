@@ -575,10 +575,21 @@ theme = "LoveIt"
     title = ""
     weight = 3
   [[menu.main]]
+    identifier = "notes"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Notes"
+    url = "/notes/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 4
+  [[menu.main]]
     identifier = "tags"
     pre = ""
     post = ""
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 4
+    weight = 5
