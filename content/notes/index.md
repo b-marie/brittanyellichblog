@@ -21,7 +21,7 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 * [Code Reviews](../content/code-reviews)
 * Computer Science History
 * Golang
-* Mentoring
+* [Mentoring](../content/mentoring)
 * Ruby/Rails
 
 ### Things I Want To Learn

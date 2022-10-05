@@ -53,12 +53,12 @@ It is very hard to convey emotion through text, so it is important that you chec
 
 ### Articles
 
-* [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
-* [Google Code Review Best Practices](https://google.github.io/eng-practices/review/reviewer/)
-* [SmartBear Guide to Code Review Process](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
-* [Philipp Hauer Code Review Best Practices](https://phauer.com/2018/code-review-guidelines)
-* [Joel Kemp on Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
+* [x] [How to Make Good Code Reviews Better](https://stackoverflow.blog/2019/09/30/how-to-make-good-code-reviews-better/)
+* [x] [Google Code Review Best Practices](https://google.github.io/eng-practices/review/reviewer/)
+* [ ] [SmartBear Guide to Code Review Process](https://smartbear.com/learn/code-review/guide-to-code-review-process/)
+* [ ] [Philipp Hauer Code Review Best Practices](https://phauer.com/2018/code-review-guidelines)
+* [ ] [Joel Kemp on Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
 
 ### Videos
 
-* [Code Review Best Practices Video](https://www.youtube.com/watch?v=3pth05Rgr8U)
+* [ ] [Code Review Best Practices Video](https://www.youtube.com/watch?v=3pth05Rgr8U)
