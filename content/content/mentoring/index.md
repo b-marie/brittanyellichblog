@@ -31,6 +31,7 @@ Figure out which approach you typically take and get comfortable with all three,
 * [x] [Mentor, coach, sponsor: a guide to developing engineers](https://leaddev.com/mentoring-coaching-feedback/mentor-coach-sponsor-guide-developing-engineers)
 * [ ] [Most managers don't know how to coach people. But they can learn](https://hbr.org/2018/08/most-managers-dont-know-how-to-coach-people-but-they-can-learn)
 * [ ] [Sponsorship HBR Article](https://hbr.org/2011/01/the-real-benefit-of-finding-a)
+* [ ] [5 Things Allies Can Do to Sponsor Coworkers from Underrepresented Groups](https://betterallies.medium.com/5-things-allies-can-do-to-sponsor-coworkers-from-underrepresented-groups-266cd512e289)
 
 ### Videos
 

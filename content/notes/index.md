@@ -20,7 +20,7 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 * Azure
 * [Code Reviews](../content/code-reviews)
 * [Computer Science History](../content//computer-science-history)
-* Golang
+* [Golang](../content/golang)
 * [Mentoring](../content/mentoring)
 * Ruby/Rails
 
@@ -28,18 +28,21 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 
 * AWS
 * Bash Scripting
-* Data Structures/Algorithms
+* [Clean Code](../content/clean-code)
+* [Data Structures/Algorithms](../content/data-structures-algorithms)
 * Design
-* Design Patterns
+* [Design Patterns](../content/design-patterns)
 * Developer Twitter
 * Distributed Systems
 * Engineering Management
-* Git
-* Incident Investigation
-* Kubernetes
+* [Game Development](../content/game-development)
+* [Git](../content/git)
+* [Incident Investigation](../content/incident-investigation)
+* [Kubernetes](../content/kubernetes)
 * Machine Learning
 * Quantum Computing
 * React
+* [Senior Plus](../content/senior-plus)
 * System Design
 * VIM
 
