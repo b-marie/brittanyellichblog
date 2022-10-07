@@ -83,6 +83,7 @@ All major operating systems also come equipped with a screen reader. However, it
 * [ ] [Deque: Accessibility in Development](https://www.deque.com/accessible-development/)
 * [ ] [The Web Accessibility Introduction I wish I had](https://dev.to/maxwell_dev/the-web-accessibility-introduction-i-wish-i-had-4ope)
 * [ ] [Comebacks for Five (Wrong) Arguments Against Accessibility](https://dev.to/maxwell_dev/comebacks-for-five-wrong-arguments-against-accessibility-5g5j)
+* [ ] [Foundations: HTML Semantics](https://tetralogical.com/blog/2022/10/05/foundations-html-semantics/)
 
 ### Videos
 

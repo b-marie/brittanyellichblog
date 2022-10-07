@@ -14,8 +14,8 @@ toc:
 
 I have a special place in my heart for learning more about computer science. For that reason I've begun reading through and summarizing some of the more important papers related to computer science. I'm adding those summaries here so that I can refer back to them later!
 
-* [MapReduce: Simplified Data Processing on Large Clusters](../papers/mapreduce)
-* [Time, Clocks, and the Ordering of Events in a Distributed System](../papers/time-clocks-ordering-events-distributed-system)
+* [MapReduce: Simplified Data Processing on Large Clusters](../../papers/mapreduce)
+* [Time, Clocks, and the Ordering of Events in a Distributed System](../../papers/time-clocks-ordering-events-distributed-system)
 
 ## Learning Resources
 
