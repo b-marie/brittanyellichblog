@@ -23,6 +23,7 @@ toc:
 ### Books
 
 * [ ] [Staff Engineer](https://staffeng.com/book)
+* [ ] [Apprenticeship Patterns](https://learning.oreilly.com/library/view/apprenticeship-patterns/9780596806842/?sso_link=yes&sso_link_from=Microsoft-Prod)
 
 ### Repos
 

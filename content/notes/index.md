@@ -17,12 +17,12 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 ### Things I'm Learning
 
 * [Accessibility](../content/accessibility)
-* Azure
+* [Azure](../content/azure)
 * [Code Reviews](../content/code-reviews)
 * [Computer Science History](../content//computer-science-history)
 * [Golang](../content/golang)
 * [Mentoring](../content/mentoring)
-* Ruby/Rails
+* [Ruby/Rails](../content/ruby-rails)
 
 ### Things I Want To Learn
 
@@ -45,6 +45,7 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 * [Senior Plus](../content/senior-plus)
 * System Design
 * VIM
+* WebAssembly
 
 ### Things I Don't Care To Learn Right Now
 
