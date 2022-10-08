@@ -26,26 +26,27 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 
 ### Things I Want To Learn
 
-* AWS
-* Bash Scripting
+* [AWS](../content/aws)
+* [Bash Scripting](../content/bash)
 * [Clean Code](../content/clean-code)
 * [Data Structures/Algorithms](../content/data-structures-algorithms)
-* Design
+* [Design](../content/design)
 * [Design Patterns](../content/design-patterns)
-* Developer Twitter
-* Distributed Systems
-* Engineering Management
+* [Developer Twitter](../content/developer-twitter)
+* [Distributed Systems](../content/distributed-systems)
+* [Engineering Management](../content/engineering-management)
 * [Game Development](../content/game-development)
 * [Git](../content/git)
 * [Incident Investigation](../content/incident-investigation)
 * [Kubernetes](../content/kubernetes)
-* Machine Learning
-* Quantum Computing
-* React
+* [Machine Learning](../content/machine-learning)
+* [Quantum Computing](../content/quantum-computing)
+* [React](../content/react)
 * [Senior Plus](../content/senior-plus)
-* System Design
-* VIM
-* WebAssembly
+* [System Design](../content/system-design)
+* [VIM](../content/vim)
+* [WebAssembly](../content/webassembly)
+* [Writing](../content/writing)
 
 ### Things I Don't Care To Learn Right Now
 
