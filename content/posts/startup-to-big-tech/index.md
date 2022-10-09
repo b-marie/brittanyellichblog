@@ -1,6 +1,6 @@
 ---
 title: "Moving from a Start Up to a Big Tech Company"
-date: 2022-10-06 10:10:12-08:00
+date: 2022-09-06 10:10:12-08:00
 draft: false
 tags: [tech, career]
 author: Brittany Ellich
@@ -9,7 +9,7 @@ resources:
     src: "featured-image.jpeg"
 ---
 
-For 2022 I a goal to get a new job. I loved working at Hippo Education. The team was like working with a family. And while it was a bit hectic at times, I enjoyed the many hats that came with the role I had. But I was ready for something new.
+For 2022 I made a goal to get a new job. I loved working at Hippo Education. The team was like working with a family, and I loved getting to work on a project doing good in the world with highly-passionate individuals. While it was a bit hectic at times, I enjoyed the many hats that came with the role. But I was ready for something new.
 
 There were several things that I was looking for in a new role. I wanted to be able to focus on technical challenges. I wanted something that gave me the opportunity to learn how to build excellent software. And, of course, I wanted something with better benefits as well. All these things don't tend to go hand-in-hand with an engineer/tech lead/manager role at a start up.
 
