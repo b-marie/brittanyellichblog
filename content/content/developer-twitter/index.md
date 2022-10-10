@@ -23,14 +23,14 @@ I've attempted to get involved in dev twitter multiple times, as it seems like o
 * Stay 90% positive. Point out truly awesome things and elaborate on why they're great. Be a beacon of awesome.
 * Avoid boring industry debates (no one cares about talking about deploying on fridays or whether dark mode or light mode is the best)
 * Some ways to engage:
-    * Answer questions when people need help
-    * Offer insightful responses in discussions
-    * Tag people to connect them (in moderation)
-    * Ask good, thought-provoking questions
-    * Offer code or design tips
-    * Share great projects, blog posts, and videos
-    * Summarize podcasts and talks
-    * Make lists of your learnings 
+  * Answer questions when people need help
+  * Offer insightful responses in discussions
+  * Tag people to connect them (in moderation)
+  * Ask good, thought-provoking questions
+  * Offer code or design tips
+  * Share great projects, blog posts, and videos
+  * Summarize podcasts and talks
+  * Make lists of your learnings
 
 ## Learning Resources
 

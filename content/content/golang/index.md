@@ -65,16 +65,17 @@ Integrity is an important part of Go. It has zero value. Any variable allocated 
     * Make user-defined types using structs
     * Define the values with `name` then `type`
 
-        ```
+        ```go
         type example struct {
             flag    bool
             counter int16
             pi      float32
         }
         ```
+
     * Go also has literal construction like this:
 
-        ```
+        ```go
         e1 := example{}
         e2 := example{
             flag:       true,

@@ -29,17 +29,21 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 * [AWS](../content/aws)
 * [Bash Scripting](../content/bash)
 * [Clean Code](../content/clean-code)
+* [Data](../content/data)
 * [Data Structures/Algorithms](../content/data-structures-algorithms)
 * [Design](../content/design)
 * [Design Patterns](../content/design-patterns)
 * [Developer Twitter](../content/developer-twitter)
 * [Distributed Systems](../content/distributed-systems)
+* [Docker](../content/docker)
 * [Engineering Management](../content/engineering-management)
 * [Game Development](../content/game-development)
 * [Git](../content/git)
 * [Incident Investigation](../content/incident-investigation)
 * [Kubernetes](../content/kubernetes)
 * [Machine Learning](../content/machine-learning)
+* [Open Source](../content/open-source)
+* [Product Management](../content/product-management)
 * [Quantum Computing](../content/quantum-computing)
 * [React](../content/react)
 * [Senior Plus](../content/senior-plus)
@@ -51,6 +55,5 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 ### Things I Don't Care To Learn Right Now
 
 * Blockchain
-* Docker
 * New JavaScript Frameworks
 * Vue

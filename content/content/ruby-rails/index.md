@@ -181,6 +181,7 @@ login.save_user #=> saving githubrocks & dd13...
 
 * [ ] [Sustainable Rails](https://sustainable-rails.com/)
 * [ ] [Michael Hartl's Ruby on Rails Tutorial](https://www.railstutorial.org/book)
+* [ ] [Eloquent Ruby](https://www.amazon.com/Eloquent-Ruby-Addison-Wesley-Professional/dp/0321584104/ref=sr_1_1?crid=1208TT14AK6HH&amp;keywords=eloquent+ruby&amp;qid=1665417098&amp;qu=eyJxc2MiOiIwLjkzIiwicXNhIjoiMC41OSIsInFzcCI6IjAuNTUifQ%253D%253D&amp;s=books&amp;sprefix=eloquent+rub%252Cstripbooks%252C137&amp;sr=1-1&_encoding=UTF8&tag=brittanyellich-20&linkCode=ur2&linkId=08359beb697edb9c8000f8690b3899a5&camp=1789&creative=9325)
 
 ### Courses
 
