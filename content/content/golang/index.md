@@ -138,10 +138,14 @@ Integrity is an important part of Go. It has zero value. Any variable allocated 
 * [ ] [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 * [x] [Go Proverbs](https://go-proverbs.github.io/) with a [video](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 * [ ] [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
+* [ ] [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
+* [ ] [Defer, Panic, and Recover in Go](https://go.dev/blog/defer-panic-and-recover)
 
 ### Books
 
 * [ ] [Mastering Go](https://www.amazon.com/Mastering-Go-professional-utilities-concurrent/dp/1801079315/ref=sr_1_1?crid=3477MH5Z40C9J&keywords=mastering+go&qid=1665114312&qu=eyJxc2MiOiIxLjI2IiwicXNhIjoiMC44NCIsInFzcCI6IjAuOTAifQ%3D%3D&sprefix=mastering+%2Caps%2C104&sr=8-1)
+* [ ] [Learning Go](https://learning.oreilly.com/library/view/learning-go/9781492077206/)
+* [ ] [The Go Programming Language](https://www.gopl.io/)
 
 ### Courses
 
@@ -150,3 +154,7 @@ Integrity is an important part of Go. It has zero value. Any variable allocated 
 ### Meetups
 
 * [ ] [Gophercon](https://www.gophercon.com/)
+
+### Videos
+
+* [ ] [A Theory of Modern Go](https://peter.bourgon.org/blog/2017/06/09/theory-of-modern-go.html)

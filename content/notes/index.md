@@ -44,6 +44,7 @@ Every quarter I like to go through my own "quarterly planning". I'll make a list
 * [Machine Learning](../content/machine-learning)
 * [Open Source](../content/open-source)
 * [Product Management](../content/product-management)
+* [Productivity](../content/productivity)
 * [Quantum Computing](../content/quantum-computing)
 * [React](../content/react)
 * [Senior Plus](../content/senior-plus)

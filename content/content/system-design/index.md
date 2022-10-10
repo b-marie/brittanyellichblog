@@ -12,6 +12,10 @@ toc:
 
 ## Learning Resources
 
+### Articles
+
+* [ ] [Netflix Lessons Learned](https://netflixtechblog.com/5-lessons-weve-learned-using-aws-1f2a28588e4c)
+
 ### Books
 
 * [ ] [Structured Design](https://www.amazon.com/Structured-Design-Fundamentals-Discipline-Computer/dp/0138544719/ref=sr_1_2?crid=6YCIL9828A91&amp;keywords=structured+design&amp;qid=1665417219&amp;qu=eyJxc2MiOiIxLjAwIiwicXNhIjoiMS4wNiIsInFzcCI6IjEuMDAifQ%253D%253D&amp;s=books&amp;sprefix=structured+design%252Cstripbooks%252C140&amp;sr=1-2&_encoding=UTF8&tag=brittanyellich-20&linkCode=ur2&linkId=58974ce48510e281c65dc634c1f51b04&camp=1789&creative=9325)

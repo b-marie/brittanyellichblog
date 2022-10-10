@@ -10,6 +10,24 @@ toc:
   auto: true
 ---
 
+## Overview
+
+### Leverage Needed to get to the Staff+ Level
+
+* You need to develop skills that give you the leverage to show bigger value to the company in order to be promoted beyond the senior IC level.
+* Interpersonal leverage
+  * Do people trust you? Do you have a network of people around the company or the industry? Have you done favors for people? Do people admire you? Do they want to work with you? Do they want to learn from you?
+    * Interpersonal skills can be more important than technical brilliance as you move up the career ladder
+  * Build a network within your company or the industry. Get to know others outside of your immediate team. "Most people are lazy and perceive themselves to be very busy, but if you invite them to do a specific thing (go get coffee, talk about a problem, meet for lunch) they will usually say yes."
+* Execution Leverage
+  * Can you get big things done? Do people involve you in complex projects because they trust you to make those projects successful?
+* Strategic leverage
+  * Seeing the common challenges or opportunities across teams or systems, articularing those opportunities, and aligning people to address them is part of the job of a senior manager.
+  * Develop your product sensibilities to identify new, unseen opportunities.
+  * Learn how to articulate your ideas. Writing well, speaking well, clarifying potential impact of a project, are all necessary skills.
+* Expert leverage
+  * Leverage that comes from having rare skills, like knowledge of a legacy system that remains critical to the business, or deep expertise in a specialized area. Be careful about relying too much on this unless the specialization is your passion.
+
 ## Learning Resources
 
 ### Articles
@@ -19,6 +37,7 @@ toc:
 * [ ] [Breaking the "Senior Engineer" Ceiling](https://dev.to/theburningmonk/breaking-the-senior-developer-ceiling-bj2)
 * [ ] [Thriving on the Technical Leadership Path](https://keavy.com/work/thriving-on-the-technical-leadership-path/)
 * [ ] [On Being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+* [x] [The Secret to Getting to the Staff+ Level? Leverage](https://leaddev.com/career-paths-progression-promotion/secret-getting-staff-level-leverage)
 
 ### Books
 

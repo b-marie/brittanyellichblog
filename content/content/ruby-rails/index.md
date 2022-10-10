@@ -192,3 +192,7 @@ login.save_user #=> saving githubrocks & dd13...
 ### Practice
 
 * [ ] [Exercism Ruby](https://exercism.org/tracks/ruby)
+
+### Videos
+
+* [ ] [Summarizing Rails Naming Conventions](https://www.bigbinary.com/books/learn-rubyonrails-book/summarizing-rails-naming-conventions)
