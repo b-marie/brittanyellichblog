@@ -14,7 +14,7 @@ toc:
 
 ## Overview
 
-Code reviews make everyone a better engineer and result in a better product over time.
+Code reviews make everyone a better engineer and result in a better product over time. But developers tend to hate code reviews. It's always a source of tension between the author and the reviewer, because pointing out problems can take time and can make people feel bad.
 
 ### What is a Code Review?
 
@@ -24,9 +24,13 @@ A code review is simply a packaged set of code changes that one developer makes 
 
 ### Benefits
 
+* Ensure code meets whatever standards your team has
+* Makes sure the solution does what it's supposed to do
+* Verifies that the code is understandable by other engineers
 * Spot-checking a coworker's work for errors
 * Learning new ways to solve problems
 * Breaking down silos within your domain by sharing knowledge
+* They can be a good way to collaborate with your team on a design
 
 ### Things to Look For
 
@@ -42,6 +46,14 @@ A code review is simply a packaged set of code changes that one developer makes 
 * Does the code require an update to documentation as well?
 * Do UI changes match the designs?
 
+### Anti-patterns
+
+* Nit picking: not particularly helpful. Use code formatters where possible to avoid styling issues and make sure to communicate that what you're pointing out is a "nit"
+* Requesting design changes when the code works: This is a waste of everyone's time unless there's a very good reason. This is an indication that you're looking at the code at the wrong time.
+* Inconsistent feedback: Happens a lot when there aren't any standards on how your company does these and is an indication that standards should be introduced.
+* Ghost reviewer: If your code change is too big you won't get an actual review.
+* Ping pong reviews: Going back and forth and continuously requesting more changes. This happens when the goal of the review is to find problems. You can always find problems and this isn't an effective way to approach reviews. This is an indication that you need a better "definition of done" for your team.
+
 ### Tone
 
 It is very hard to convey emotion through text, so it is important that you check your tone to make sure it comes across the way you want it to. This is a great thing to discuss in team agreements to make sure that everyone on your team is on the same page.
@@ -50,6 +62,14 @@ It is very hard to convey emotion through text, so it is important that you chec
 * Avoid strong or opinionated statements
 * Be empathetic. A lot of effort went into this change (probably)
 * Point out things that you like or things that you thought the author did well
+
+### Best Practices
+
+* Understand why your team does code reviews
+* Understand when the code review should occur
+* Understand who will be responsible for the code review
+* Know where to do the code review
+* Remember that the goal is to ship the code
 
 ## Learning Resources
 
@@ -61,6 +81,10 @@ It is very hard to convey emotion through text, so it is important that you chec
 * [ ] [Philipp Hauer Code Review Best Practices](https://phauer.com/2018/code-review-guidelines)
 * [ ] [Joel Kemp on Giving Better Code Reviews](https://medium.com/@mrjoelkemp/giving-better-code-reviews-16109e0fdd36)
 
+### Books
+
+* [ ] [What to Look For in a Code Review](https://leanpub.com/whattolookforinacodereview)
+
 ### Videos
 
-* [ ] [Code Review Best Practices Video](https://www.youtube.com/watch?v=3pth05Rgr8U)
+* [x] [Code Review Best Practices Video](https://www.youtube.com/watch?v=3pth05Rgr8U)

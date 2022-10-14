@@ -178,6 +178,7 @@ login.save_user #=> saving githubrocks & dd13...
 * [ ] [Ruby on Rails Guide](https://guides.rubyonrails.org/getting_started.html)
 * [ ] [Upcase by Thoughtbot](https://thoughtbot.com/upcase)
 * [ ] [Learn x in y minutes for Ruby](https://learnxinyminutes.com/docs/ruby/)
+* [ ] [Understanding Zeitwerk in Rails 6](https://medium.com/cedarcode/understanding-zeitwerk-in-rails-6-f168a9f09a1f)
 
 ### Books
 
