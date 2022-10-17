@@ -10,7 +10,7 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Engineering Management](./)
 
 ## Learning Resources
 

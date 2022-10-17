@@ -10,13 +10,14 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Design Patterns](./)
 
 ## Learning Resources
 
 ### Articles
 
 * [ ] [Bridge Pattern](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [ ] [Learn Software Design Patterns](https://jeffbailey.us/blog/2020/11/05/learn-software-design-patterns/)
 
 ### Books
 

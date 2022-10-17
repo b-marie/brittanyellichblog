@@ -10,7 +10,7 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Golang](./)
 
 Integrity is an important part of Go. It has zero value. Any variable allocated in memory is automatically set to its zero value (no undefined)
 

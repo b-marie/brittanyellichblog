@@ -1,8 +1,8 @@
 ---
-title: "Machine Learning"
+title: "Writing"
 lastmod: 2022-10-08T00:00:00+08:00
 draft: false
-tags: [machine learning]
+tags: [writing]
 author: Brittany Ellich
 
 toc:
@@ -10,9 +10,19 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Writing](./)
+
+## Overview
+
+Writing is incredibly important for engineers, and may be the most important skill that you require. It is key to having an impact in larger organizations.
+
+Writing is a great test to see how well you understand a specific topic.
 
 ## Learning Resources
+
+### Articles
+
+* [x] [Writing for Engineers](https://www.heinrichhartmann.com/posts/writing/)
 
 ### Books
 

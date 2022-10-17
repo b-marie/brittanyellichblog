@@ -10,6 +10,6 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [GCP](./)
 
 ## Learning Resources

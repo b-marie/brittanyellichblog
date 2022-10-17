@@ -1,5 +1,5 @@
 ---
-title: "Data Structures and Algorithms"
+title: "Clean Code"
 lastmod: 2022-10-06T00:00:00+08:00
 draft: false
 tags: [coding, tech]
@@ -10,7 +10,7 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Clean Code](./)
 
 ## Learning Resources
 

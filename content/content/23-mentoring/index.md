@@ -10,7 +10,7 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Mentoring](./)
 
 * **Mentoring:** sharing your experience so the mentee can leverage it for themselves
 * **Coaching:** asking questions that helps a mentee reach their own solution

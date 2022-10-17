@@ -10,6 +10,6 @@ toc:
   auto: true
 ---
 
-[Notes](../../notes)
+[Notes](../../notes) / [Machine Learning](./)
 
 ## Overview
