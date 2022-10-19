@@ -97,6 +97,10 @@ Any others that we should be aware of?
 
 * [ ] [Gerard Cohen Courses on Pluralsight](https://gerardkcohen.me/courses/courses.html)
 * [ ] [Accessibility for Web Design](https://www.linkedin.com/learning/accessibility-for-web-design/welcome?u=3322)
+* [ ] [Deque Basic Web and Document Accessibility for Content Contributors](https://dequeuniversity.com/curriculum/courses/content-contributors)
+* [ ] [Accessibility: Testing and Screen Reader Use](https://app.pluralsight.com/library/courses/accessibility-testing-and-screen-reader/table-of-contents)
+* [ ] [Introduction to UX and Accessible Design](https://www.futurelearn.com/courses/introduction-to-ux-and-accessible-design)
+* [ ] [Section 508 Trusted Tester](https://www.dhs.gov/trusted-tester)
 
 ### Articles
 

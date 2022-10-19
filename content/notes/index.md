@@ -54,4 +54,6 @@ I maintain three lists, "Things I'm Learning", "Things I Want To Learn", and "Th
 
 * Blockchain
 * New JavaScript Frameworks
+* Rust
+* Svelte
 * Vue
