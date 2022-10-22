@@ -142,6 +142,7 @@ Integrity is an important part of Go. It has zero value. Any variable allocated 
 * [ ] [100 Go Mistakes](https://github.com/teivah/100-go-mistakes)
 * [ ] [Learn Go With Tests](https://quii.gitbook.io/learn-go-with-tests/)
 * [ ] [Defer, Panic, and Recover in Go](https://go.dev/blog/defer-panic-and-recover)
+* [ ] [Conceurrency Abstractions in Go: Queues, tasks, and Actors](https://sdehm.dev/posts/concurrency-abstractions-in-go/)
 
 ### Books
 

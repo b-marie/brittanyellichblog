@@ -171,6 +171,10 @@ login.save_user #=> saving githubrocks & dd13...
   * `user.errors.full_messages`
     * Shows any error messages on the user object
 
+### Debugging
+
+You can add `debugger` to a line of ruby code that is using the byebug gem. This will show a prompt in your command line that will allow you to query the current state of the application.
+
 ## Learning Resources
 
 ### Articles

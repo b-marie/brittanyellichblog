@@ -50,6 +50,7 @@ toc:
 * [ ] HoneyPot on Kubernetes Documentary
 * [ ] Watch the videos on <https://kustomize.io/>.
 * [ ] Video of a talk on [Kustomize](https://www.youtube.com/watch?v=ahMIBxufNR0) from KubeCon 2018. A nice introduction to Kustomize and understanding what problems the tool is attempting to solve.
+* [ ] [Docker Containers and Kubernetes Fundamentals](https://www.youtube.com/watch?v=kTp5xUtcalw&themeRefresh=1)
 
 ### Books
 

@@ -20,6 +20,7 @@ I maintain three lists, "Things I'm Learning", "Things I Want To Learn", and "Th
 
 ### Things I Want To Learn
 
+* [Artificial Intelligence](../content/37-artificial-intelligence)
 * [AWS](../content/2-aws)
 * [Bash Scripting](../content/4-bash)
 * [Clean Code](../content/5-clean-code)

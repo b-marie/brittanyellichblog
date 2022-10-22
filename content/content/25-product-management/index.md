@@ -14,6 +14,10 @@ toc:
 
 ## Learning Resources
 
+### Articles
+
+* [ ] [How "Engineering-Driven" Leads to "Engineering-Supremacy"](https://charity.wtf/2022/01/20/how-engineering-driven-leads-to-engineering-supremacy/)
+
 ### Books
 
 * [ ] [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I/ref=sr_1_1?crid=3I0O43OWF8A5R&amp;keywords=the+innovator%2527s+dilemma&amp;qid=1665417058&amp;qu=eyJxc2MiOiIyLjIwIiwicXNhIjoiMS44NiIsInFzcCI6IjIuMDgifQ%253D%253D&amp;s=books&amp;sprefix=the+innovator%2527s+dilemm%252Cstripbooks%252C141&amp;sr=1-1&_encoding=UTF8&tag=brittanyellich-20&linkCode=ur2&linkId=78a68e5165bd9840d6612a5a0c74162b&camp=1789&creative=9325)
