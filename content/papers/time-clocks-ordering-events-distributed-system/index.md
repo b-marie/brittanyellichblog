@@ -10,6 +10,8 @@ toc:
   auto: true
 ---
 
+[Notes](../../notes) / [Computer Science History](../../content/7-computer-science-history) / [Time, Clocks, and the Ordering of Events in a Distributed System](./)
+
 **Author(s):** Leslie Lamport
 
 **Date:** 1978

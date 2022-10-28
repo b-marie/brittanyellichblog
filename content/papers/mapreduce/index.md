@@ -10,6 +10,8 @@ toc:
   auto: true
 ---
 
+[Notes](../../notes) / [Computer Science History](../../content/7-computer-science-history) / [MapReduce: Simplified Data Processing on Large Clusters](./)
+
 **Author(s):** Jeffrey Dean and Sanjay Ghemawat
 
 **Date:** 2004

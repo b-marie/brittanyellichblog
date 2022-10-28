@@ -18,6 +18,7 @@ I have a special place in my heart for learning more about computer science. For
 
 * [MapReduce: Simplified Data Processing on Large Clusters](../../papers/mapreduce)
 * [Time, Clocks, and the Ordering of Events in a Distributed System](../../papers/time-clocks-ordering-events-distributed-system)
+* [Dynamo: Amazon's Highly Available Key-value Store](../../papers/the-dynamo-paper)
 
 ## Learning Resources
 
