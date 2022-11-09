@@ -35,6 +35,7 @@ toc:
 * Use a data structure called Vector Clocks. These are used to determine if an event occurred before another event (two writes). You can identify if A causes B, B causes A, or both A and B are independent.
 * Handle temporary failures with hinted handoff and permanent failures with syncs using Merkle trees.
 * Gossip protocol. At every epoch, each node transmits its membership list to b nodes. If a node is stated as unavailable for more than M epochs, it's announced dead. Given no additional changes, protocol converges in O(log2N) steps.
+* The paper was elected into the [SIGOPS Hall of Fame](https://www.sigops.org/awards/hof/)
 
 ### Highlights
 
@@ -54,3 +55,4 @@ toc:
 
 * [Papers We Love Presentation](https://www.youtube.com/watch?v=hMt9yFp0JKM)
 * [Other Papers We Love Presentation](https://www.youtube.com/watch?v=w96lLsbI1q8)
+* [Blog Post](https://samu.space/dynamo/)
