@@ -1,6 +1,6 @@
 ---
 title: "Accessibility"
-lastmod: 2022-10-14T00:00:00+08:00
+lastmod: 2022-11-13T00:00:00+08:00
 draft: false
 tags: [accessibility]
 author: Brittany Ellich
@@ -53,6 +53,8 @@ Include fuzzy checking or spell check on search for a user that may mispell a wo
 ## Accessibility Testing
 
 There are several automated testing options to test your site for accessibility.
+
+Use the [w3 valudator for checking HTML validation](validator.w3.org/nu). This has some great guidance for some high-level things that can be caught for WCAG compliance.
 
 ### Automated Testing
 

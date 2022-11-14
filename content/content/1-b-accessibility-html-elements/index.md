@@ -1,6 +1,6 @@
 ---
 title: "HTML Elements"
-lastmod: 2022-10-14T00:00:00+08:00
+lastmod: 2022-11-13T00:00:00+08:00
 draft: false
 tags: [accessibility]
 author: Brittany Ellich
@@ -14,6 +14,14 @@ toc:
 
 ## Overview
 
+### HTML Basics
+
+* Each page should always have a `DOCTYPE` specified
+* Each page should have a `<html>` tag with a lang set (ex. en for english)
+* Each `<head>` tag should have a meta sharset, like `utf-8`
+* Each page should have a page title, which should be unique and should describe the page
+* Header, Nav, Main, Footer, and Aside are major landmarks that should be used throughout a page to describe the layout of the content. Form and Section are also important, but aren't considered landmarks. Not every page should have each of these, but they're important for things like skip links, which can skip from nav to main. Each page should always have a Main landmark
+
 ### Headers
 
 * Headers are used by screen readers to allow users to jump around in documents. If there aren't adequate headers on a page, a user must sit through the entire screen to find what they're looking for or interested in learning from your site.
@@ -25,6 +33,14 @@ toc:
  
 <div role="heading" aria-level="2">I am also a heading level 2</div>
 ```
+
+### Buttons and Links
+
+* Links are for navigation or change of context
+  * Links like "learn more" aren't great as they don't describe exactly where they will navigate you to
+  * Accesisbility properties in Google CHrome's dev tools will show the computed properties and calculated accessible name for each link, which is worth checking
+* Buttons are for actions
+* Don't try to use links for buttons or buttons for links
 
 ### Text
 
@@ -48,7 +64,7 @@ toc:
 * Text in navigation should be super readable and in colors that all users can see.
 * Avoid nested dropdowns where possible, as they can be frustrating for users with physical disabilities. If you do include them, make sure they have tolerance for a wavering mouse and don't snap back to closed if a user's mouse navigates away momentarily.
 * Add familiar icons to navigation to make it easier for a user to glance at the word and know where it leads.
-* Navigation should be the same regardless of where a user is in the site
+* Navigation should be the same order regardless of where a user is in the site
 * Include a site map as a backup for users that have difficult moving through navigation
 
 ### Menus
@@ -57,7 +73,7 @@ toc:
 
 ### Images
 
-* Almost all images should have alt text, which is the tag that is read by the screen reader to the user. If that alt text doesn't exist the screen reader will skip over the image entirely.
+* Almost all images should have alt text, which is the tag that is read by the screen reader to the user. If that alt text doesn't exist the screen reader will skip over the image entirely. This should be implemented with the alt attribute, an aria-label, or aria-labelledby which links to something else that describes the image.
 * The description in alt text should be a description of what the image contains. You don't have to say "An image of..." as that will be apparent already. Include what is significant about that image and why it was included on the page for sighted users.
 * Don't repeat the alt text in the caption if the image has a caption. Screen reader users would then have to hear that text twice. Imagine the caption as an extension of what's included in the alt text.
 * Images of graphs require a bit of extra consideration, to make sure that the feel of the content of the graph is conveyed to the user through the alt text and caption (if applicable).
@@ -71,7 +87,7 @@ toc:
 ### Forms
 
 * Always use labels for each form field, to help a screen reader user navigate through the form. The only exception here is for buttons, since the text of the button already explains what it is.
-* Using the proper input type is also important to convey to the user what type of field they are interacting with.
+* Using the proper input type is also important to convey to the user what type of field they are interacting with. Each input should have a type associated with it.
 * Make current fields highlighted to make them easier to see for users with low vision
 * Display all items vertically, one right after another, instead of placing them side-by-side, to make them easier to tab through.
 * Use tab-order if needed to make sure that your form tabs through in the correct order
@@ -79,12 +95,17 @@ toc:
 * Allow ample time for a user to fill out a form, and save their data as often as possible so that if the form times out they can come back to it and don't have to start from the beginning.
 * Allow users to save their progress, or break a long form up into multiple sections to make it easier to navigate
 * Check how long your form can sit before it times out.
+* Use autocomplete where available.
+* Use the `required` attribute where needed, but also communicate to the user what is required through text.
+* Disabled inputs need to have the disabled tag on the input.
+* If an error occurs, there should be aria-describedby or some other way to indicate which error is associated with each input programmatically.
 
 ### Radio Buttons and CheckBoxes
 
 * Radio buttons and check boxes should be both tab and arrow-friendly. They should also be large enough for a user with a physical disability to click on them with limited range of motion.
 * For radio buttons and checkboxes, only the first element should be included on a tab order. If the user hits tab again, they should move to the next form element, not the next button or box.
 * Ideally you should use the native input types of "radio" or "checkbox", but you can also accomplish the same goal using the ARIA roles of "radio" and "checkbox" and manually managing tab orders.
+* Fielsets should always have a legend, which is the first child of the fieldset.
 
 ```HTML
 <fieldset>
@@ -106,7 +127,7 @@ toc:
 
 ### Tables
 
-* Tabular data belongs in tables, rather than a series of divs. Screen readers are better at navigating through tables and make the content easier to follow.
+* Tabular data belongs in tables, rather than a series of divs. They should also only be used for tabular data. Screen readers are better at navigating through tables and make the content easier to follow.
 * Always include scopes in the HTML of a table to make it easier for a screen reader user to follow.
 * Tables should always include a summary with a description of the data it contains.
 * Don't repeat the summary information in the table caption, forcing a screen reader user to go through that content twice.
@@ -117,7 +138,8 @@ Frames and iFrames can be difficult for screen readers to interact with.
 
 ### Lists
 
-Lists should be implemented using the native `ul` and `li` HTML elements, but if needed they can also be implemented with the ARIA roles of `list` and `listitem`.
+* Always use a list for anything that is a list (a list of 3 or more items)
+* Lists should be implemented using the native `ul` and `li` HTML elements, but if needed they can also be implemented with the ARIA roles of `list` and `listitem`.
 
 ```HTML
 <ul>  
