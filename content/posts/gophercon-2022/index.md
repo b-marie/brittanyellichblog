@@ -116,8 +116,8 @@ I feel extremely fortunate that I had the opportunity to attend GopherCon 2022. 
 
 I highly recommend checking out the talks once they are available on YouTube if you missed any of them. While they were all really well done and insightful, here's a list of my favorite must-watch talks from the conference if you have time for them. I'll add links to the talks once they are up on YouTube:
 
-* Compatibility: How Go Programs Keep Working by [Russ Cox](https://twitter.com/_rsc), Distinguished Engineer at Google
-* Fuzz Testing Made Easy by [Katie Hockman](https://twitter.com/katie_hockman), Team Lead at DataDog
+* [Compatibility: How Go Programs Keep Working](https://www.youtube.com/watch?v=v24wrd3RwGo) by [Russ Cox](https://twitter.com/_rsc), Distinguished Engineer at Google
+* [Fuzz Testing Made Easy](https://www.youtube.com/watch?v=7KWPiRq3ZYI) by [Katie Hockman](https://twitter.com/katie_hockman), Team Lead at DataDog
 * Tiny Go: Getting the Upper Hen by [Donia Chaiehloudj](https://twitter.com/doniacld), Software Engineer at Powder
 
 Also, here are a few that I missed that I really wanted to watch after hearing some great things about them from other attendees.
