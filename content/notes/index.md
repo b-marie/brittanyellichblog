@@ -12,11 +12,12 @@ I maintain three lists, "Things I'm Learning", "Things I Want To Learn", and "Th
 
 * [Accessibility](../content/1-accessibility)
 * [Azure](../content/3-azure)
-* [Code Reviews](../content/6-code-reviews)
 * [Computer Science History](../content/7-computer-science-history)
+* [Game Development](../content/16-game-development)
 * [Golang](../content/19-golang)
 * [Mentoring](../content/23-mentoring)
 * [Ruby/Rails](../content/29-ruby-rails)
+* [Software Development Ethics](../content/38-software-development-ethics)
 
 ### Things I Want To Learn
 
@@ -24,6 +25,7 @@ I maintain three lists, "Things I'm Learning", "Things I Want To Learn", and "Th
 * [AWS](../content/2-aws)
 * [Bash Scripting](../content/4-bash)
 * [Clean Code](../content/5-clean-code)
+* [Code Reviews](../content/6-code-reviews)
 * [Data](../content/8-data)
 * [Data Structures/Algorithms](../content/9-data-structures-algorithms)
 * [Design](../content/10-design)
@@ -32,7 +34,6 @@ I maintain three lists, "Things I'm Learning", "Things I Want To Learn", and "Th
 * [Distributed Systems](../content/13-distributed-systems)
 * [Docker](../content/14-docker)
 * [Engineering Management](../content/15-engineering-management)
-* [Game Development](../content/16-game-development)
 * [GCP](../content/17-gcp)
 * [Git](../content/18-git)
 * [Incident Investigation](../content/20-incident-investigation)
