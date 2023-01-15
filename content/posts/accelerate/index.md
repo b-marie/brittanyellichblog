@@ -4,6 +4,9 @@ date: 2019-09-02 20:10:12-08:00
 draft: false
 tags: [tech, devops, book review]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "accelerate.jpeg"
 ---
 
 [Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07B9F83WM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GZ8P72Q7X2CDHX6J4G5A&tag=brittanyellich-20)

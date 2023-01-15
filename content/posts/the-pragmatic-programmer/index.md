@@ -4,6 +4,9 @@ date: 2022-02-14 10:00:00-08:00
 draft: false
 tags: [tech, continuous education, book review]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "tpp20.jpeg"
 ---
 
 [Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07VRS84D1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_5Y2239G0BEN58Z5FJCR2&tag=brittanyellich-20)

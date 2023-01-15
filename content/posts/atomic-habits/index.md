@@ -4,6 +4,9 @@ date: 2022-02-05 10:00:00-08:00
 draft: false
 tags: [productivity, book review]
 author: Brittany Ellich
+resources:
+  - name: "featured-image"
+    src: "atomic-habits.jpeg"
 ---
 
 [Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07D23CFGR&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QX834PP008N7BFTEBXPZ&tag=brittanyellich-20)
