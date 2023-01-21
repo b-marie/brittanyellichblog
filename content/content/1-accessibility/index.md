@@ -23,6 +23,7 @@ toc:
 
 * [Accessibility Layout](../1-a-accessibility-layout)
 * [HTML Elements](../1-b-accessibility-html-elements)
+* [Accessibility Testing](../1-c-accessibility-testing)
 
 ### ARIA
 
@@ -49,43 +50,6 @@ Some users will use add-ons, like Grease Monkey, to interact with your site and 
 ### Search
 
 Include fuzzy checking or spell check on search for a user that may mispell a word
-
-## Accessibility Testing
-
-There are several automated testing options to test your site for accessibility.
-
-Use the [w3 valudator for checking HTML validation](validator.w3.org/nu). This has some great guidance for some high-level things that can be caught for WCAG compliance.
-
-### Automated Testing
-
-Here are some automated testing options
-
-### Manual Testing
-
-* A FireFox add-on called Fangs will render a page as it may be seen on a screen reader.
-* Use `CTRL + +` on your site to see how the text grows for users that may need larger text
-  * Are all navigation elements still visible and readable?
-  * Is everything approximately in the same place as it was before?
-  * Are images growing as well?
-  * Are embedded objects growing along with the rest of the site?
-  * Are all major browsers responding the same way?
-* There are plug-ins available to test for various types of color blindness.
-* Navigate the website with your non-dominant hand to simulate users with physical disabilities
-* Navigate the website with just a mouse
-* Navigate the website with just a keyboard
-
-### Screen Readers
-
-Screen readers:
-
-* List out headers for the user
-* Tead alt tags for images
-* Rist links on a page
-* Use access keys
-* Read out tables in the column:content format
-* Will not read out `display: none` or `visibility: hidden`
-
-All major operating systems also come equipped with a screen reader. However, it can be difficult to learn to use a screen reader if it's something that you aren't familiar with.
 
 ## Accessibility Standards
 
