@@ -1,8 +1,8 @@
 ---
-title: "Book Review: Lean In: Women, Work, and the Will to Lead"
+title: "Book Summary: Lean In: Women, Work, and the Will to Lead"
 date: 2023-12-08 10:00:00-08:00
 draft: false
-tags: [gender equality, leadership, mentoring, book review]
+tags: [gender equality, leadership, mentoring, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

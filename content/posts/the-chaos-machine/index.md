@@ -1,8 +1,8 @@
 ---
-title: "Book Review: The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World"
+title: "Book Summary: The Chaos Machine: The Inside Story of How Social Media Rewired Our Minds and Our World"
 date: 2023-01-16 10:00:00-08:00
 draft: false
-tags: [social media, ethics, book review]
+tags: [social media, ethics, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

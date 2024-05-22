@@ -1,8 +1,8 @@
 ---
-title: "Book Review: Don't Make Me Think"
+title: "Book Summary: Don't Make Me Think"
 date: 2022-12-19 10:00:00-08:00
 draft: false
-tags: [product management, book review]
+tags: [product management, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

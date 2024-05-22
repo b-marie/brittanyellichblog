@@ -1,8 +1,8 @@
 ---
-title: "Book Review: Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
+title: "Book Summary: Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"
 date: 2022-02-05 10:00:00-08:00
 draft: false
-tags: [productivity, book review]
+tags: [productivity, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

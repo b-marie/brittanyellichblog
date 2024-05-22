@@ -1,8 +1,8 @@
 ---
-title: "Book Review: Year of Yes"
+title: "Book Summary: Year of Yes"
 date: 2024-04-07 10:00:00-08:00
 draft: false
-tags: [parenthood, career, book review]
+tags: [parenthood, career, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"

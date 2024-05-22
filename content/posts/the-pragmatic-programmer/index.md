@@ -1,8 +1,8 @@
 ---
-title: "Book Review: The Pragmatic Programmer"
+title: "Book Summary: The Pragmatic Programmer"
 date: 2022-02-14 10:00:00-08:00
 draft: false
-tags: [tech, continuous education, book review]
+tags: [tech, continuous education, book summary]
 author: Brittany Ellich
 resources:
   - name: "featured-image"
