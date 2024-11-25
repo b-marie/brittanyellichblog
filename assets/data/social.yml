@@ -4,7 +4,7 @@ github:
   Prefix: https://github.com/
   Title: GitHub
   Icon:
-    Class: fab fa-github-alt fa-fw
+    Class: fab fa-github fa-fw
 
 # 002: LinkedIn
 linkedin:
@@ -14,37 +14,37 @@ linkedin:
   Icon:
     Class: fab fa-linkedin fa-fw
 
-# 003: Twitter
-twitter:
+# 003: Bluesky
+bluesky:
   Weight: 3
-  Prefix: https://twitter.com/
+  Prefix: https://bsky.app/
+  Title: Bluesky
+  Icon:
+    Src: svg/icons/bluesky-brands-solid.svg
+
+# 004: Twitter
+twitter:
+  Weight: 4
+  Prefix: https://x.com/
   Title: Twitter
   Icon:
-    Class: fab fa-twitter fa-fw
+    Src: svg/icons/x-twitter-brands-solid.svg
 
-# 004: Instagram
+# 005: Instagram
 instagram:
-  Weight: 4
+  Weight: 5
   Prefix: https://www.instagram.com/
   Title: Instagram
   Icon:
     Class: fab fa-instagram fa-fw
 
-# 005: facebook
-facebook:
-  Weight: 5
-  Prefix: https://facebook.com/
-  Title: facebook
-  Icon:
-    Class: fab fa-facebook fa-fw
-
-# 006: Telegram
-telegram:
+# 006: Threads
+threads:
   Weight: 6
-  Prefix: https://t.me/
-  Title: Telegram
+  Prefix: https://www.threads.net/
+  Title: Threads
   Icon:
-    Class: fab fa-telegram-plane fa-fw
+    Src: svg/icons/threads-brands-solid.svg
 
 # 007: Medium
 medium:
