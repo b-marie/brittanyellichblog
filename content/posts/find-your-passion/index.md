@@ -9,15 +9,17 @@ resources:
     src: "passion.jpg"
 ---
 
-It's the time of year right now where I'm reflecting on this past year, and identifying what changes I need to make to re-focus for the year of head. One of those changes that I want to make is to focus my efforts on the things that I am most passionate about. As such, I've been researching the best ways to figure out what you're most passionate about.
+It's the time of year where I'm reflecting on this past year, and identifying what changes I need to make to re-focus for 2025.
+
+One of those changes is to focus on the things that I am most passionate about. As such, I've been researching the best ways to find your passion.
 
 The tech industry is vast, with endless opportunities for innovation, problem-solving, and growth. Whether you’re just starting out or looking to pivot within the field, finding your true passion can be the key to a fulfilling career. But how do you discover what excites you in such a fast-paced and diverse space?
 
 ## How to Find Your Passion
 
-I'm a serial generalist. Usually whatever I'm most passionate about is whatever is in front of me right now. But as you get further into your career, you have more time to define the problems that you think are the highest priority and what you're most interested in solving. Now I'm spending time honing my skills to figure out where I should spend those efforts.
+I'm a serial generalist. Usually whatever I'm most passionate about is whatever is right in front of me. But, as I'm learning as I journey further into my career, at more senior levels you spend more time defining problems rather than just solving them. So, to exercise that muscle I decided that I needed to find what I'm most passionate about.
 
-Here are some steps to help you uncover your passion in tech:
+Here are some steps I have come across to help you uncover your passion in tech:
 
 ### 1. Explore Different Fields Within Tech
 
@@ -42,6 +44,18 @@ Your passion often aligns with your strengths. Are you a creative thinker who en
 ### 6. Be Open to Change
 
 Your passion may evolve as you grow in your career. Stay open to new opportunities and don’t be afraid to pivot. Tech is all about adaptation and innovation, so embrace the idea that your interests may shift over time. The key is to stay curious and never stop learning.
+
+## What I'm Most Passionate About
+
+Here are the things I have come across that I have decided I'm most passionate about recently:
+
+- Accessibility
+- Building performant React frontends
+- Building things using Golang
+- Making existing applications better: more available, more scalable, more performant
+- Doing excellent code reviews
+- Mentoring other engineers
+- Writing really good tests
 
 ## Final Thoughts
 
