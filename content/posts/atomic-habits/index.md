@@ -9,7 +9,7 @@ resources:
     src: "atomic-habits.jpeg"
 ---
 
-[Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07D23CFGR&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_QX834PP008N7BFTEBXPZ&tag=brittanyellich-20)
+[Get it Here](https://jamesclear.com/atomic-habits)
 
 There are few books out there that I consider life-changing. That I come back to again and again, continuously gaining wisdom from them. Atomic Habits is one of them.
 

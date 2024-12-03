@@ -9,9 +9,9 @@ resources:
     src: "accelerate.jpeg"
 ---
 
-[Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07B9F83WM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GZ8P72Q7X2CDHX6J4G5A&tag=brittanyellich-20)
+[Get it on Here](https://nicolefv.com/writing)
 
-Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book [Accelerate](https://read.amazon.com/kp/embed?asin=B07B9F83WM&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_GZ8P72Q7X2CDHX6J4G5A&tag=brittanyellich-20) on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.
+Working as a Software Engineer contractor at Nike for the past several months, I have been preached to about the gospel of the book [Accelerate](https://nicolefv.com/writing) on more than one occasion. I finally had a gap in my reading schedule that allowed me to fit it in.
 
 ![Accelerate by Jez Humble and Gene Kim](accelerate.jpeg)
 

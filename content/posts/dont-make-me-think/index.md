@@ -9,7 +9,7 @@ resources:
     src: "dmmt.jpg"
 ---
 
-[Get it on Amazon](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=sr_1_1?crid=1HXDL7YDOUISW&keywords=don%27t+make+me+think&qid=1671479807&sprefix=don%27t+make+me+thin%2Caps%2C220&sr=8-1&tag=brittanyellich-20)
+[Get it here](https://sensible.com/dont-make-me-think/)
 
 Don't Make Me Think was a quick read on the important points around testing a website or app for usability. This is a critical item that needs to be tested early and often, but typically is pushed off to the very end of a project if it is even tested at all.
 

@@ -9,7 +9,7 @@ resources:
     src: "year-of-yes.jpg"
 ---
 
-[Get it on Amazon](https://www.amazon.com/Year-Yes-Dance-Stand-Person-ebook/dp/B00YTG3C0G?dib_tag=se&dib=eyJ2IjoiMSJ9.3Y_J5P0_5bTki_lJHV7MynqTJ2ulO2Qitp1wEOEAQPrsQR-TmWNfAnWnvYRrTHBFuwOfDX2Kd3-5AF5X7cMEnjqWd8ahMYVyVJI5tbtMl__33RACptmouT1nTjLtItIlX577PYV_-mkmr8n8om7_9_OzSZXe4JxGJZw0Vn-2UUKn9uxXMjFcDyYS9whEVID6pAOsnIiIQRbE7ecjRyH9dEVXcn9knOxFKFOJg2BOSk4.ZZR0ArUvl-BvWgxdQdUF34Ofgy6yFp-wgNafipulwT4&qid=1712531849&sr=8-1&tag=brittanyellich-20)
+[Get it on Bookshop](https://bookshop.org/p/books/year-of-yes-shonda-rhimes/10370480?ean=9781476777122)
 
 I started out this year reading Year of Yes by Shonda Rhimes as part of a book club, and it has stuck with me since reading it. I loved this book. Like many of the books that I take the time to do a write up about, it came to me at exactly the right time.
 

@@ -9,7 +9,7 @@ resources:
     src: "tcm.jpg"
 ---
 
-[Get it on Amazon](https://www.amazon.com/Chaos-Machine-Inside-Social-Rewired-ebook/dp/B09FJPPQQ3/ref=sr_1_1?crid=16DJBAL32EEXX&keywords=the+chaos+machine&qid=1673905080&sprefix=the+chaos+machin%2Caps%2C180&sr=8-1&tag=brittanyellich-20)
+[Get it on Bookshop](https://bookshop.org/p/books/the-chaos-machine-the-inside-story-of-how-social-media-rewired-our-minds-and-our-world-max-fisher/18203720?ean=97803167033210)
 
 The Chaos Machine by Max Fisher is easily one of the most important books that any software engineer could read. It contains lessons that are imperative to understand for designing ethical software applications.
 

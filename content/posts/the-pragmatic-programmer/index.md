@@ -9,11 +9,11 @@ resources:
     src: "tpp20.jpeg"
 ---
 
-[Get it on Amazon](https://read.amazon.com/kp/embed?asin=B07VRS84D1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_5Y2239G0BEN58Z5FJCR2&tag=brittanyellich-20)
+[Get it here](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 This was a truly excellent book that I have had on my list to read for a very long time.
 
-[![The Pragmatic Programmer by David Thomas and Andrew Hunt](tpp20.jpeg)](https://read.amazon.com/kp/embed?asin=B07VRS84D1&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_5Y2239G0BEN58Z5FJCR2&tag=brittanyellich-20)
+[![The Pragmatic Programmer by David Thomas and Andrew Hunt](tpp20.jpeg)](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 
 The Pragmatic Programmer is a book of programming best practices, learned from years of experience. The two authors of the book thoughtfully combined the best nuggets of wisdom from their time building software on how to be a “good” programmer. Note that some of the content is their opinion, but they are generally opinions that are widely held by the software community.
 

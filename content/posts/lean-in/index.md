@@ -9,7 +9,7 @@ resources:
     src: "lean-in.jpeg"
 ---
 
-[Get it on Amazon](https://www.amazon.com/Lean-Women-Work-Will-Lead-ebook/dp/B009LMTDL0?qid=1702063995&sr=8-1&tag=brittanyellich-20)
+[Get it here](https://leanin.org/book)
 
 Once in a while, the universe aligns, and you stumble upon that perfect book at the perfect moment. For me, that cosmic timing happened in December 2023 when I dove into the pages of "Lean In."
 

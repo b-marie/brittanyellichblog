@@ -28,8 +28,6 @@ theme = "LoveIt"
   images = ["/logo.png"]
   # website title for Open Graph and Twitter Cards
   title = "Brittany Ellich: Software Engineer"
-  # website description for RSS, SEO, Open Graph and Twitter Cards
-  description = "Brittany Ellich: Software Engineer"
 
   #  App icon config
   [params.app]
@@ -320,7 +318,7 @@ theme = "LoveIt"
       # Disqus comment config
       [params.page.comment.disqus]
         # 
-        enable = true
+        enable = false
         # Disqus shortname to use Disqus in posts
         shortname = "https-brittanyellich-com"
       # Gitalk comment config

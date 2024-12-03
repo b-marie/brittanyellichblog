@@ -9,6 +9,8 @@ resources:
     src: "passion.jpg"
 ---
 
+Today is day 2 of #blogvent, where I'm writing a blog post every day for the month of December. [Shoutout to @cassidoo for the idea](https://bsky.app/profile/cassidoo.co/post/3lcbjdiahas2l)!
+
 It's the time of year where I'm reflecting on this past year, and identifying what changes I need to make to re-focus for 2025.
 
 One of those changes is to focus on the things that I am most passionate about. As such, I've been researching the best ways to find your passion.

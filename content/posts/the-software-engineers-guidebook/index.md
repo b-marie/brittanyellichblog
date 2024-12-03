@@ -9,7 +9,9 @@ resources:
     src: "seg.png"
 ---
 
-[Get it on Amazon](https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions-ebook/dp/B0CV6ZNLLP?crid=3DIJAGRHZRJYG&dib=eyJ2IjoiMSJ9.6OLdfgRHFeeO85l2-hKUin7sxpFp_76s_PCAO44taTs67nnCbfY92NwhgFi2CNKIVniz6jLTGARih33opTDypWnSDtvzG1I4TyKfz4Gpob0OLwzXR_x_rKH9iXuSXBXZQWMzJo3mWOUI0UGi97Sa73CHwsdkhOSVoIaEc6JzChXUrH-3_IHl_7Le-hGtFaDnvvJEvZrWQdndbGjpXeMxJrgX2b76M8vPe5CuBisDxeo.aPgwHPEnbWUSPUJjqolGg8RVdkgRwY_IQ7EWiKJhzbA&dib_tag=se&keywords=the+software+engineer's+guidebook&qid=1722376962&sprefix=the+software+eng,aps,224&sr=8-1&tag=brittanyellich-20)
+Today is day 1 of #blogvent, where I'm writing a blog post every day for the month of December. [Shoutout to @cassidoo for the idea](https://bsky.app/profile/cassidoo.co/post/3lcbjdiahas2l)!
+
+[Get it here](https://www.engguidebook.com/)
 
 I loved this book, and a full summary and review of it is sure to come shortly. However I wanted to share some of the book club discussion questions for this book that we came up with for anyone else looking to organize a book club for this book.
 
