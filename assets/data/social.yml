@@ -17,7 +17,7 @@ linkedin:
 # 003: Bluesky
 bluesky:
   Weight: 3
-  Prefix: https://bsky.app/
+  Prefix: https://bsky.app/profile/
   Title: Bluesky
   Icon:
     Src: svg/icons/bluesky-brands-solid.svg
