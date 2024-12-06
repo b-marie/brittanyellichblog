@@ -17,7 +17,7 @@ I missed a day. Oops. And I almost certainly won't keep up with #blogvent throug
 
 A few months ago, I started noticing something odd: phrases like "worm can" and "footgun" kept popping up in conversations, but I had absolutely no idea what people meant by them. I’d hear these terms all the time, yet they were so unclear that I was hesitant to use them myself—what if I misused them? I wasn’t alone in this feeling, and that’s when the idea for this project was born.
 
-I’ve started compiling a Tech Glossary—a place to collect these quirky tech phrases and break them down into plain English. It's a resource I plan to keep adding to over time. If you've ever found yourself scratching your head at a weird tech saying, this glossary might just be for you. You can check it out and contribute to it here: Tech Glossary.
+I’ve started compiling a Tech Glossary—a place to collect these quirky tech phrases and break them down into plain English. It's a resource I plan to keep adding to over time. If you've ever found yourself scratching your head at a weird tech saying, this glossary might just be for you. You can check it out and contribute to it here: [Tech Glossary](https://github.com/brittanyellich/tech-glossary/tree/main).
 
 ### Contributing
 
