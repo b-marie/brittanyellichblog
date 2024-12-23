@@ -9,12 +9,6 @@ resources:
     src: "sunset.jpg"
 ---
 
-It feels like we are at a turning point on the internet. As AI-generated content runs rampant, I am finding that I'm more interested than ever in individual content owned and hosted by real humans. 
-
-I feel like I'm moving away from large networks like Substack or Medium in favor of individual blogs and newsletters. And it's a good change. 
-
-## General Thoughts
-
 I've seen a lot of "2024 in Review" blog posts and I've been feeling reflective, so I thought I would do one of my own. 
 
 2024 was really a year about re-discovering myself, my values, and my interests. I'm closing a chapter of my life of near constant family growing, and I'm entering 2025 a more confident, albeit tired, version of myself.
@@ -61,7 +55,11 @@ I still have some work to do to finish the summaries I planned for each one, but
 
 #### Blogs
 
-I have also been much more interested in finding and reading more voices from blogs of other engineers. I have been using Bluesky to find recommendations, Slack as a RSS Feed, and this repo to collect and organize the recommendations I have received over time. If you have a recommendation, plus submit an issue for it!
+I have also been much more interested in finding and reading more voices from blogs of other engineers. It feels like we are at a turning point on the internet. As AI-generated content runs rampant, I am finding that I'm more interested than ever in individual content owned and hosted by real humans. 
+
+I feel like I'm moving away from large networks like Substack or Medium in favor of individual blogs and newsletters. And it's a good change. 
+
+I have been using Bluesky to find recommendations, Slack as a RSS Feed, and [this repo to collect and organize the recommendations I have received over time](https://github.com/brittanyellich/developers-who-blog). If you have a recommendation (even if that recommendation is yourself!) plus submit an issue for it!
 
 Here are a few blog posts I read this year that really stuck with me:
 
