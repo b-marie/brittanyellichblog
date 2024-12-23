@@ -7,7 +7,6 @@ author: Brittany Ellich
 resources:
   - name: "featured-image"
     src: "sunset.jpeg"
-    title: "Sunset over mountains by Artem Sapegin on Unsplash"
 ---
 
 It feels like we are at a turning point on the internet. As AI-generated content runs rampant, I am finding that I'm more interested than ever in individual content owned and hosted by real humans. 
