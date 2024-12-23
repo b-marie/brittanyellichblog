@@ -6,7 +6,7 @@ tags: [tech, life, career, learning]
 author: Brittany Ellich
 resources:
   - name: "featured-image"
-    src: "sunset.jpeg"
+    src: "sunset.jpg"
 ---
 
 It feels like we are at a turning point on the internet. As AI-generated content runs rampant, I am finding that I'm more interested than ever in individual content owned and hosted by real humans. 
