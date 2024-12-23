@@ -38,16 +38,16 @@ One of my favorite parts of my job is the book clubs. Usually one person in the 
 
 This year a couple of other engineers and I decided to try to centralize those efforts a bit more and make a single Tech Book Club that anyone can start a book in. Through the book club this year I have read: 
 
-- The Software Engineer's Guidebook
-- Domain-Driven Design
-- Kill it with Fire: Manage Aging Computer Systems (and Future-Proof Modern Ones)
-- Designing Data-Intensive Applications
+- [The Software Engineer's Guidebook](https://www.engguidebook.com/) by Gergely Orosz
+- [Domain-Driven Design](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
+- [Kill it with Fire: Manage Aging Computer Systems (and Future-Proof Modern Ones)](https://www.penguinrandomhouse.com/books/667571/kill-it-with-fire-by-marianne-bellotti/) by Marianne Bellotti
+- [Designing Data-Intensive Applications](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321) by Martin Kleppman
 
 Outside of the book club I've also read:
 
-- Domain-Driven Design Distilled
-- Staff Engineer
-- Year of Yes
+- [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) by Vaughn Vernon
+- [Staff Engineer: Leadership Beyond the Management Track](https://staffeng.com/book) by Will Larson
+- [Year of Yes](https://www.amazon.com/Year-Yes-Dance-Stand-Person/dp/1476777128) by Shonda Rhimes
 
 And a few other fiction books that aren't as worth mentioning here. 
 
@@ -63,10 +63,10 @@ I have been using Bluesky to find recommendations, Slack as a RSS Feed, and [thi
 
 Here are a few blog posts I read this year that really stuck with me:
 
-- [How to review code effectively: A GitHub Staff Engineer's Philosophy by Sarah Vessels](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/)
-- [Reputation is Portable by Aaron Francis](https://aaronfrancis.com/2024/reputation-is-portable-b41ee8ac)
-- [Ship it anyway by Cassidy Williams](https://cassidoo.co/post/ship-it-anyway/)
-- [Tying Engineering Metrics to Business Metrics by Iccha Sethi](https://medium.com/@icchasethi/tying-engineering-metrics-to-business-metrics-f4df7651e026)
+- [How to review code effectively: A GitHub Staff Engineer's Philosophy](https://github.blog/developer-skills/github/how-to-review-code-effectively-a-github-staff-engineers-philosophy/) by Sarah Vessels
+- [Reputation is Portable](https://aaronfrancis.com/2024/reputation-is-portable-b41ee8ac) by Aaron Francis
+- [Ship it anyway](https://cassidoo.co/post/ship-it-anyway/) by Cassidy Williams
+- [Tying Engineering Metrics to Business Metrics](https://medium.com/@icchasethi/tying-engineering-metrics-to-business-metrics-f4df7651e026) by Iccha Sethi
 
 ### Speaking
 
