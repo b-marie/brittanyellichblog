@@ -583,7 +583,7 @@ theme = "LoveIt"
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Notes"
-    url = "/notes/"
+    url = "https://github.com/brittanyellich/body-of-knowledge"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 4
