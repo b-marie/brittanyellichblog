@@ -215,7 +215,7 @@ theme = "LoveIt"
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Email = "brittany.ellich@outlook.com"
+    Email = "brittany@balancedengineer.com"
     Resume = true
     RSS = true # 
 
@@ -497,7 +497,7 @@ theme = "LoveIt"
 # Author config
 [author]
   name = "Brittany Ellich"
-  email = "brittany.ellich@outlook.com"
+  email = "brittany@balancedengineer.com"
   link = "https://brittanyellich.com"
 
 # Sitemap config

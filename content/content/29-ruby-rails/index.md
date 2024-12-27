@@ -144,9 +144,9 @@ login.save_user #=> saving githubrocks & dd13...
 * `rails console` or `rails c` starts the console
 * `rails console --sandbox` starts the console in sandbox mode, where any modifications that are made will be rolled back when exiting
 * Creating new objects:
-  * `User.new(name: "Brittany Ellich", email: "brittany.ellich@outlook.com")`
+  * `User.new(name: "Brittany Ellich", email: "brittany@balancedengineer.com")`
     * Note when using new, you must also do: `user.save` on the object, as User.new will only create the object in memory
-  * `User.create(name: "Brittany Ellich", email: "brittany.ellich@outlook.com")`
+  * `User.create(name: "Brittany Ellich", email: "brittany@balancedengineer.com")`
     * `create` does the new and save all in one step
 * Deleting objects:
   * `foo.destroy`
@@ -155,14 +155,14 @@ login.save_user #=> saving githubrocks & dd13...
 * Finding objects:
   * `User.find(1)`
     * Finds the object by the ID that you pass in
-  * `User.find_by(email: "brittany.ellich@outlook.com")`
+  * `User.find_by(email: "brittany@balancedengineer.com")`
     * Finds by whichever attribute you pass in. You'll probably want an index on this attribute in the database if it's done a lot.
   * `User.first`
     * Returns the first user in the DB
   * `User.all`
     * Returns all users in the DB
 * Updating objects
-  * `user.email = "brittany.ellich@outlook.com"`
+  * `user.email = "brittany@balancedengineer.com"`
     * This requires a `user.save` to actually save to the DB
     * You can reload with the DB value by doing `user.reload`
   * `user.update(name: "Awesome", email: "awesome@example.com")`
