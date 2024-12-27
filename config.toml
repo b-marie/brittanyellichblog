@@ -566,6 +566,17 @@ theme = "LoveIt"
     title = ""
     weight = 2
   [[menu.main]]
+    identifier = "newsletter"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Newsletter"
+    url = "https://balancedengineer.com"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 3
+  [[menu.main]]
     identifier = "notes"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
@@ -575,7 +586,7 @@ theme = "LoveIt"
     url = "/notes/"
     # title will be shown when you hover on this menu link
     title = ""
-    weight = 3
+    weight = 4
   [[menu.main]]
     identifier = "tags"
     pre = ""
@@ -583,4 +594,4 @@ theme = "LoveIt"
     name = "Tags"
     url = "/tags/"
     title = ""
-    weight = 4
+    weight = 5
